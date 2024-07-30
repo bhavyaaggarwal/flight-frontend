@@ -16,6 +16,14 @@ For the design of the project, please refer to the following document:
    ```bash
    cd path/to/reactfirst
 
-### run npm install it will generate node modules folder
-### run npm start for starting the react application 
+2. **Run npm install it will generate node modules folder**
+
+```bash
+   npm install
+
+3. **Run npm start for starting the react application**
+
+```bash
+   npm start
+
 ### once both backend and front end are up you can start using the application
