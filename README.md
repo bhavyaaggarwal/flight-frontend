@@ -14,7 +14,7 @@ For the design of the project, please refer to the following document:
    Open a terminal and navigate to the `reactfirst` folder within your React project directory.
 
    ```bash
-   cd path/to/reactfirst
+   cd .\reactfirst\
    ```
 
 2. **Run npm install it will generate node modules folder**
